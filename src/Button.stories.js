@@ -325,7 +325,7 @@ export const AnchorWrapper = (args) => (
 
 AnchorWrapper.storyName = 'anchor wrapper';
 
-// New story using the play function
+//  New story using the play function
 export const WithInteractions = () => (
   <Button
     ButtonWrapper={StoryLinkWrapper}
